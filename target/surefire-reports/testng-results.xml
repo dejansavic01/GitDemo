@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="qaclickacademy.MavenJava.AppiumTest" duration-ms="231" started-at="2021-08-31T11:45:53 CEST" finished-at="2021-08-31T11:45:53 CEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="231" started-at="2021-08-31T11:45:53 CEST" finished-at="2021-08-31T11:45:53 CEST">
+      <class name="qaclickacademy.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@32be31]" name="IOSApps" duration-ms="31" started-at="2021-08-31T11:45:53 CEST" finished-at="2021-08-31T11:45:53 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.MavenJava.AppiumTest@32be31]" name="NativeAppAndroid" duration-ms="0" started-at="2021-08-31T11:45:53 CEST" finished-at="2021-08-31T11:45:53 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.MavenJava.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- qaclickacademy.MavenJava.AppiumTest -->
+</testng-results>
