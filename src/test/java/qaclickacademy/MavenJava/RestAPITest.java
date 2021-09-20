@@ -9,6 +9,8 @@ public class RestAPITest {
 	public void PostJira()
 	{
 		System.out.println("PostJira");
+		System.out.println("PostJira2");
+		System.out.println("postJira3");
 	}
 	@Test
 	public void DeleteTwitter()
